@@ -26,7 +26,7 @@
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=halva89&layout=donut&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=halva89&layout=donut&langs_count=4&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=halva89&layout=donut&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=halva89&layout=donut&langs_count=4&theme=transparent)
 </div>
 
 ---
