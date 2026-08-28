@@ -1,7 +1,7 @@
 <div align="center">
 
-## 【﻿Ｈｅｌｌｏ！　Ｉ＇ｍ　Ｈａｌｖａ８９．（≧∇≦）ﾉ】
-### My real name is Yuri Chezanski. Solo low-level & Python developer.
+## 【﻿Ｈｅｌｌｏ！　Ｉ＇ｍ　Ｈａｌｖａ．（≧∇≦）ﾉ】
+### My real name is Max. Solo low-level & Python developer.
 
 ![](https://komarev.com/ghpvc/?username=halva89)
 
